@@ -1,0 +1,19 @@
+.centered-card-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 9rem 5rem 5rem 5rem;
+}
+
+.InputFieldClass {
+    width: 100%;
+}
+
+.signUpCard {
+    width: 100%;
+}
+
+.submitButton {
+    margin-left: 48%;
+    margin-top: 5%;
+}

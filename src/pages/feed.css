@@ -1,0 +1,26 @@
+.padding_background_feed {
+    padding: 9rem 5rem 5rem 5rem;
+}
+
+.background_feed {
+    background-color: #dbdad6;
+}
+
+.card {
+    border-color: #8E8D8A;
+    margin-top: 2rem;
+}
+
+.username{
+    color: #424242;
+    font-size: 1.4rem;
+
+}
+
+.pagination{
+    text-align: -webkit-center;
+}
+
+.boys2{
+    height: 20rem;
+}
