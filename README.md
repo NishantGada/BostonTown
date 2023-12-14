@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+INFO 6150 Final Project 
+=======================
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/OuSBNpwM)
 
-## Available Scripts
+Features
+--------
+1. A web application that helps connect users to other users looking for apartments and roommates along with connect users to the necessary real estate agents. 
 
-In the project directory, you can run:
+2. Functionality to `post information` on the web page for ease. 
 
-### `npm start`
+3. A unique feature about this webpage is the `"BostonCares"` section. This section involves displaying any incidents/ unsafe activities that may have occured in areas of Boston. This is achieved with the help of real time data from users along with `heatmaps` to better visualize the incidents in specific areas/ localities.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4. Having this feature allows the users to be aware of the safety of their neighborhood, before they select any apartment. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+5. Apart from this, users also have the option of `connecting with other users` based on their common interests, as shown on their profile page. 
 
-### `npm test`
+6. Users can also `bookmark/ book any apartments` that they find to their liking and the required information will be shared with the respective agent.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Getting Started
+---------------
+* 1. Start the Node server:
+```
+node server.js
+```
+* 2. Enter the React directory:
+```
+cd boston-town
+```
+* 3. Install the required packages and run:
+```
+npm i
+npm start
+```
 
-### `npm run build`
+Architecture and Roadmap
+-------------------------
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![INFO6150 drawio](https://github.com/info-6150-fall-2023/final-project-incident-map/assets/145169519/89b3109b-af9d-4f76-9644-93846e4e51fe)
